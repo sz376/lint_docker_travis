@@ -7,3 +7,4 @@ def inc(x_value):
 def test_answer():
     """This tests the function"""
     assert inc(4) == 5
+
